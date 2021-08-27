@@ -10,7 +10,7 @@ export default function Home({ exploreData, cardsData }) {
   return (
     <div className="">
       <Head>
-        <title>Create Next App</title>
+        <title>Airbnb Clone</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <Header />
@@ -44,7 +44,7 @@ export default function Home({ exploreData, cardsData }) {
 
         <LargeCard
           img="https://links.papareact.com/4cj/"
-          title="The GreatestOutdoors"
+          title="The Greatest Outdoors"
           description="Wishlists curated by Airbnb."
           buttonText="Get Inspired"
         />
